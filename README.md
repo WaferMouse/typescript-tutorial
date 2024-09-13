@@ -10,6 +10,12 @@ To begin, open VS Code and open a new folder as a project. Now run the following
 npm init
 ```
 
+You'll also need to install TypeScript:
+
+```shell
+npm install -g typescript
+```
+
 Now you'll need to create some files and folders. You want to recreate the following structure. `package.json` will already exist, we'll deal with that in a moment.
 
 ```
