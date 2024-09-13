@@ -13,7 +13,7 @@ Now you'll need to create some files and folders. You want to recreate the follo
 
 ```
 .
-├── src
+├── src/
 │   └── main.ts
 ├── package.json
 └── tsconfig.json
