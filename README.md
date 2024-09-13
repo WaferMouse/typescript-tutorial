@@ -84,6 +84,7 @@ Amazing! You have a project setup to begin experimenting with TypeScript.
 Now it's time to experiment. You already know JavaScript, so we won't teach you how to code, but we will point out a few useful resources:
 
 [TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
 [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets/)
 
 Where you go from here is up to you!
